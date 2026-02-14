@@ -9,8 +9,7 @@
 # Background Research(600-750)
     `
     - background research
-    - os its built om
-    - packet-filtering engine
+    - os its built on
     - typical use cases
     - strengths and limitations
     - differentiate based on architecture
