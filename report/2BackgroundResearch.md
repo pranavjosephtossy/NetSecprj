@@ -1,8 +1,8 @@
 # Background Reserach(700)
 # Jithin(250)
     Nftables is the modern packet filtering framework for Linux Systems and it is the successor to iptables, ip6tables,etables and arptables. According to Red Hat Enterprise Documentation it offers a variety of improvements in performance, convenience, features and rule management by unifying packet filtering for both ipv4 and ipv6. This removes the need for having several different rule sets for various protocols and reduces the complexity.
-The nftables architecture is based on tables, chains and rules. The table is the main container that holds firewall settings. A chain exists within a table, and it defines where the packets are checked and they are linked to specific points in the network flow called hooks. Some common chains are input, output and forward. Finally, rules are placed inside chains and define how traffic is handled 
-Nftables also supports scripting which can have comments and variables and be loaded automatically at startup which make nftables suitable for where performance is important
+    The nftables architecture is based on tables, chains and rules. The table is the main container that holds firewall settings. A chain exists within a table, and it defines where the packets are checked and they are linked to specific points in the network flow called hooks. Some common chains are input, output and forward. Finally, rules are placed inside chains and define how traffic is handled 
+    Nftables also supports scripting which can have comments and variables and be loaded automatically at startup which make nftables suitable for where performance is important
 
 
 # Ojal(250)
