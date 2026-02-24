@@ -7,7 +7,3 @@
     The attacker virtual machine was placed on a seperate subnet from the target virtual machine. `192.168.10.0/24` vs `192.168.20.0/24`. The firewall is configured with interfaces, LAN interface for the target virtual machine and internal netwrok, and WAN interface for the attacker. This ensures an accurate real world example of outside actor trying to "hack" the target virtual machine
 
     The attacker virtual machine is linux, which was picked for it extensive suite of penetration testing tools. The target virtual machine is a ubuntu server virtual machine. The firewall virtual machine runs the three selected firewalls: Endian Firewall Community Edition, OJAL and JITHIN. The firewalls are evaluated independently on the same topology, within the same environment.
-
-# Jithin()
-# Ojal()
-# Pranav()
