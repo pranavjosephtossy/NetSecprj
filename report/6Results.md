@@ -1,3 +1,5 @@
 # Jithin()
 # Ojal()
 # Pranav()
+Nftables produced a clear and consistent results across all four major test categories. Port-filtering rules behaved as expected. Because the tvm was not configured to run a web server or provide SSH access, i could not demonstrate these services functioning. However, applying the same logic using ICMP by permiting or blocking ping produced a similar expected showcase of rule behaviour. In figure you can see that while the ping does work and the ssh port(22) is filtered, meaning the firewall has xxx.
+The protocol blocking test of ICMP messages accuratetly dropped ping request like it was configured. Traffic-policy testing proved expected behaviour under default-allow and default-deny configurations. Logging tests od allowed and dropped traffic provided detailed entries into the system journal. Overall each ruleset behaved as expected and produced the desierable output.

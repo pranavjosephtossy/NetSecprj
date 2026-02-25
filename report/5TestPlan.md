@@ -5,4 +5,4 @@
 ## Service/Protocol Blocking Tests(icmp)
 ## Traffic Policy Test
 ## Logging Tests
-    This will evaluate how each firewall logs allowed traffic and blocked traffic attempts. This will show which firewall is able to reliable and consciely record events and offer a clear account.
+    This will evaluate how each firewall logs allowed traffic and blocked traffic attempts. This will show which firewall is able to reliable and consciely record events and offer a clear account
